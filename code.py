@@ -20,8 +20,3 @@ while guess != num and chances: #this checks that you guessed wrongly while havi
     if guess != num and chances ==0:
         print("You have used all your 3 chances.\n")
         print("The number is",num, ".")
-
-# git add .
-# git commit -m 'message'
-# git push origin "name of branch"
-# git pull origin "name of branch"
